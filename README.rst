@@ -263,7 +263,7 @@ more precisely in these situations:
 * after a configuration test failed (see `Configuration test`_) and a previous backup is restored
 
 You can use this hook to perform custom actions before services are reloaded, eg: to perform
-auto-configuration with `LibreMesh <http://libre-mesh.org/>`_.
+auto-configuration with `LibreMesh <http://libremesh.org/>`_.
 
 Example configuration::
 
